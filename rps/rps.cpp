@@ -1,5 +1,4 @@
 // Rock Paper Scissors Example
-// Written by Sean Davis <smd.seandavis@gmail.com>
 
 #include <cstdlib>
 #include <fstream>

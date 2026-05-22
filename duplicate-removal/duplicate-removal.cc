@@ -1,6 +1,6 @@
 /*
 	Title:			Duplicate Removal	
-	Author:			Andrew Evan Smith
+	Author: Legacy archive
 	Description:	Example for ACM	
 */
 

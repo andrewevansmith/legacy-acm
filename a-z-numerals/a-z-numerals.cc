@@ -1,5 +1,4 @@
 // A-Z Roman Numerals
-// Andrew Smith
 
 
 #include <iostream>
