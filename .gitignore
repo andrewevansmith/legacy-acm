@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.o
+*.out
+a.out
+build/
+dist/
+tmp/
+*.log
+
